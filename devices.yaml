@@ -1,0 +1,36 @@
+---
+Device 0:
+  ecid: '3610559528236'
+  phone_ver: iPhone2,1
+  build: '7E18'
+  last_shsh: 5.0.1
+Device 1:
+  ecid: '3737125711287'
+  phone_ver: iPhone3,1
+  build: 8J2
+  last_shsh: 5.0.1
+Device 2:
+  ecid: '2370302256118'
+  phone_ver: iPad1,1
+  build: 8J3
+  last_shsh: 5.0.1
+Device 3:
+  ecid: '2778845783438'
+  phone_ver: iPhone3,1
+  build: 9A334
+  last_shsh: 5.0.1
+Device 4:
+  ecid: '1654905848621'
+  phone_ver: iPad2,2
+  build: 9A405
+  last_shsh: 5.0.1
+Device 5:
+  ecid: '4297921729356'
+  phone_ver: iPhone4,1
+  build: 9A406
+  last_shsh: 5.0.1
+Device 6:
+  ecid: '1484800672652'
+  phone_ver: iPhone2,1
+  build: 9A405
+  last_shsh: 5.0.1
